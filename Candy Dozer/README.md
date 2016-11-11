@@ -4,7 +4,7 @@
  - というかこれはただのテスト
  - fetch と merge できるか確認したかった
 
-- iOS 実機テストの仕方
+- iOS 実機テストの仕方  
 1.Unityを開く  
 2.File → Open Scece... からProject起動  
 3.File → Build Settings... でBuildの設定ができる  
